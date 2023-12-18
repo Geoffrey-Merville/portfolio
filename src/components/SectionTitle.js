@@ -1,12 +1,12 @@
-const SectionTitle = ({ title }, { description }) => {
+const SectionTitle = ({ sectionTitle, description }) => {
   return (
     <header id="body-header">
       <div className="page-title">
-        <div></div>
-        <h1>{title}</h1>
-        <div></div>
+        <div className="right-line"></div>
+        <h1>{sectionTitle}</h1>
+        <div className="left-line"></div>
       </div>
-      <p>{description}</p>
+      {description ? <p>{description}</p> : ""}
     </header>
   );
 };
