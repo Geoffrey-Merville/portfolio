@@ -14,7 +14,7 @@ const ExperienceBlockItem = ({
   return (
     <div className="timeline-item">
       <div className="timeline-date">
-        <time datetime={chipDate}>{chipDate}</time>
+        <time dateTime={chipDate}>{chipDate}</time>
       </div>
       <div className="timeline-circle"></div>
       <article id={articleId} className="timeline-content scroll-id">
@@ -22,8 +22,8 @@ const ExperienceBlockItem = ({
           <h2>{articleTitle}</h2>
           <p className="location">
             <strong>{articleCompany}</strong> |
-            <time datetime={articleStartDateTime}>{articleStartDate}</time> -
-            <time datetime={articleEndDateTime}>{articleEndDate}</time>
+            <time dateTime={articleStartDateTime}>{articleStartDate}</time> -
+            <time dateTime={articleEndDateTime}>{articleEndDate}</time>
           </p>
         </hgroup>
         <p>{articleDescription}</p>

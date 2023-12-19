@@ -1,5 +1,5 @@
 {
-    "Experience Pro": [
+    "Expérience Professionnelle": [
         {
             "id": 1,
             "chipDate": "2023", 
@@ -14,163 +14,163 @@
         },
         {
             "id": 2,
-            "chipDate": "", 
+            "chipDate": "2021", 
             "articleId": "",
-            "articleTitle": "",
-            "articleCompany": "",
-            "articleStartDate": "",
-            "articleStartDateTime": "",
-            "articleEndDate": "",
-            "articleEndDateTime": "",
-            "articleDescription": ""
+            "articleTitle": "Développeur Indépendant",
+            "articleCompany": "Lille",
+            "articleStartDate": "07/2021",
+            "articleStartDateTime": "2021-07",
+            "articleEndDate": "09/2022",
+            "articleEndDateTime": "2022-09",
+            "articleDescription": "Durant cette période, j’ai majoritairement contribué à la conception et au développement de mon projet personnel SoulArchives. Celui-ci est basé sur un back-end PHP avec Joomla! et une base de données MySQL, et un front-end natif."
         },
         {
             "id": 3,
-            "chipDate": "", 
+            "chipDate": "2019", 
             "articleId": "",
-            "articleTitle": "",
-            "articleCompany": "",
-            "articleStartDate": "",
-            "articleStartDateTime": "",
-            "articleEndDate": "",
-            "articleEndDateTime": "",
-            "articleDescription": ""
+            "articleTitle": "Stage de Fin d'Année d'Études",
+            "articleCompany": "Touhou-Online",
+            "articleStartDate": "07/2019",
+            "articleStartDateTime": "2019-07-04T09:00:00",
+            "articleEndDate": "09/2019",
+            "articleEndDateTime": "2019-09-05T17:00:00",
+            "articleDescription": "Stage de fin d’année d’études à SUPINFO. Lors de ce stage, ma mission a principalement été de participer à la configuration du serveur et aux réunions le concernant."
         }
     ],
-    "Formations": [
+    "Formations & Apprentissages": [
         {
             "id": 1,
-            "chipDate": "", 
+            "chipDate": "2023", 
             "articleId": "",
-            "articleTitle": "",
-            "articleCompany": "",
-            "articleStartDate": "",
-            "articleStartDateTime": "",
-            "articleEndDate": "",
-            "articleEndDateTime": "",
-            "articleDescription": ""   
+            "articleTitle": "[Alternance] Concepteur et Développeur d’applications",
+            "articleCompany": "Dawan Lille",
+            "articleStartDate": "01/2023",
+            "articleStartDateTime": "2023-01-02T09:30:00",
+            "articleEndDate": "Aujourd'hui",
+            "articleEndDateTime": "2023-12",
+            "articleDescription": "Apprentissage diplômant d'une license (Bac +3) en alternance, proposant diverses formations dispensées pour former aux méthodes de conceptualisation d'applications, à diverses technologies (langages, outils, etc.) et au déploiement des projets réalisés. Les technologies majoritairement utilisées sont Java, AngularJS et MariaDB."   
         },
         {
             "id": 2,
-            "chipDate": "", 
+            "chipDate": "2022", 
             "articleId": "",
-            "articleTitle": "",
-            "articleCompany": "",
-            "articleStartDate": "",
-            "articleStartDateTime": "",
-            "articleEndDate": "",
-            "articleEndDateTime": "",
-            "articleDescription": ""
+            "articleTitle": "POEC .NET Framework",
+            "articleCompany": "Dawan Lille",
+            "articleStartDate": "09/2022",
+            "articleStartDateTime": "2022-09-19T09:30:00",
+            "articleEndDate": "12/2022",
+            "articleEndDateTime": "2022-12-15T17:00:00",
+            "articleDescription": "POEC dispensée par Dawan pour former sur les technologies liées au .NET Framework de Microsoft. (C#, ASP.NET, WPF etc.)"
         },
         {
             "id": 3,
-            "chipDate": "", 
+            "chipDate": "2021", 
             "articleId": "",
-            "articleTitle": "",
-            "articleCompany": "",
-            "articleStartDate": "",
-            "articleStartDateTime": "",
-            "articleEndDate": "",
-            "articleEndDateTime": "",
-            "articleDescription": ""
+            "articleTitle": "Développeur Web & Web Mobile - Web@cadémie",
+            "articleCompany": "EPITECH Lille",
+            "articleStartDate": "10/2021",
+            "articleStartDateTime": "2021-10-03T09:00:00",
+            "articleEndDate": "06/2022",
+            "articleEndDateTime": "2022-06-01T17:00:00",
+            "articleDescription": "Formation d'intégrateur web dispensée par EPITECH afin de former au développement (front-end et back-end) d’applications web & web mobile. La première année de formation portait principalement sur PHP, MySQL, HTML 5 & CSS 3 et un peu Bootstrap."
         },
         {
             "id": 4,
-            "chipDate": "", 
+            "chipDate": "2018", 
             "articleId": "",
-            "articleTitle": "",
-            "articleCompany": "",
-            "articleStartDate": "",
-            "articleStartDateTime": "",
-            "articleEndDate": "",
-            "articleEndDateTime": "",
-            "articleDescription": ""
+            "articleTitle": "Master d’ingénierie en Informatique",
+            "articleCompany": "SUPINFO Valenciennes",
+            "articleStartDate": "10/2018",
+            "articleStartDateTime": "2018-10-01T09:00:00",
+            "articleEndDate": "07/2021",
+            "articleEndDateTime": "2021-07-02T16:00:00",
+            "articleDescription": "Formation Master M2 en informatique dispensée par SUPINFO. Domaines d'études divers : programmation, architecture IT, systèmes et réseaux..."
         },
         {
             "id": 5,
-            "chipDate": "", 
+            "chipDate": "2016", 
             "articleId": "",
-            "articleTitle": "",
-            "articleCompany": "",
-            "articleStartDate": "",
-            "articleStartDateTime": "",
-            "articleEndDate": "",
-            "articleEndDateTime": "",
-            "articleDescription": ""
+            "articleTitle": "Baccalauréat Scientifique - Science de l'Ingénieur",
+            "articleCompany": "Lycée Jacquard Caudry",
+            "articleStartDate": "09/2016",
+            "articleStartDateTime": "2016-09-03T08:30:00",
+            "articleEndDate": "07/2018",
+            "articleEndDateTime": "2018-07-06T17:45:00",
+            "articleDescription": "Option ISN (Informatique et Science du Numérique). L’objectif principal a été de reprogrammer et étudier un tapis de course communicant. J'ai également dû programmer un moteur pas à pas en début d'année."
         }
     ],
-    "Online": [
+    "Formations en ligne": [
         {
             "id": 1,
-            "chipDate": "", 
+            "chipDate": "2023", 
             "articleId": "",
-            "articleTitle": "",
-            "articleCompany": "",
+            "articleTitle": "Formation ReactJS - Full Course For Beginners",
+            "articleCompany": "Dave Gray - Youtube",
             "articleStartDate": "",
             "articleStartDateTime": "",
             "articleEndDate": "",
             "articleEndDateTime": "",
-            "articleDescription": ""   
+            "articleDescription": "Formation complète pour débutants sur la librairie JavaScript ReactJS et développement de projets de cours pour s'exercer. Divers concepts tels que les Routers, les hooks, les API calls (via une API REST) ou encore les opérations CRUD ont été abordés durant cette formation."   
         },
         {
             "id": 2,
-            "chipDate": "", 
+            "chipDate": "2023", 
             "articleId": "",
-            "articleTitle": "",
-            "articleCompany": "",
+            "articleTitle": "Formation IA 2023 - ChatGPT, GPT4, Midjourney-Stable Diffusion",
+            "articleCompany": "Jonathan Roux - Udemy",
             "articleStartDate": "",
             "articleStartDateTime": "",
             "articleEndDate": "",
             "articleEndDateTime": "",
-            "articleDescription": ""
+            "articleDescription": "Formation complète sur l'utilisation et la compréhension approfondie des IA génératives telles que ChatGPT, les modèles GPT-3.5/GPT-4, MidJourney/Stable Diffusion, etc. Cette formation a principalement pour but de mieux comprendre le fonctionnement de ces IA afin d'améliorer les prompts utilisés et ainsi maximiser l'efficacité de ces outils."
         },
         {
             "id": 3,
-            "chipDate": "", 
+            "chipDate": "2023", 
             "articleId": "",
-            "articleTitle": "",
-            "articleCompany": "",
+            "articleTitle": "Spring Boot 3 For Beginners",
+            "articleCompany": "AmigosCode",
             "articleStartDate": "",
             "articleStartDateTime": "",
             "articleEndDate": "",
             "articleEndDateTime": "",
-            "articleDescription": ""
+            "articleDescription": "Formation sur le framework Java Spring Boot 3, formant sur les bases du framework et comment créer une API pour nos applications web."
         },
         {
             "id": 4,
-            "chipDate": "", 
+            "chipDate": "2022", 
             "articleId": "",
-            "articleTitle": "",
-            "articleCompany": "",
+            "articleTitle": "Développeur Python",
+            "articleCompany": "Jonathan Roux - Udemy",
             "articleStartDate": "",
             "articleStartDateTime": "",
             "articleEndDate": "",
             "articleEndDateTime": "",
-            "articleDescription": ""
+            "articleDescription": "Formation complète sur le langage Python. Divers projets y sont réalisés, tels que des micro-applications, des applications web et même des jeux vidéo, en utilisant diverses technologies et frameworks tels que Django."
         },
         {
             "id": 5,
-            "chipDate": "", 
+            "chipDate": "2022", 
             "articleId": "",
-            "articleTitle": "",
-            "articleCompany": "",
+            "articleTitle": "Développeur C#",
+            "articleCompany": "Jonathan Roux - Udemy",
             "articleStartDate": "",
             "articleStartDateTime": "",
             "articleEndDate": "",
             "articleEndDateTime": "",
-            "articleDescription": ""
+            "articleDescription": "Formation sur le langage C# 10 et partiellement sur .NET 6. La formation porte principalement sur les fondamentaux du langage, les nouveautés de .NET 6, la POO et les API REST."
         }
     ],
-    "Benevolat": {
+    "Bénévolat": {
         "id": 1,
-        "chipDate": "", 
+        "chipDate": "2017", 
         "articleId": "",
-        "articleTitle": "",
-        "articleCompany": "",
-        "articleStartDate": "",
-        "articleStartDateTime": "",
-        "articleEndDate": "",
-        "articleEndDateTime": "",
-        "articleDescription": ""
+        "articleTitle": "Gestionnaire du contenu et de la rédaction",
+        "articleCompany": "Touhou-Online",
+        "articleStartDate": "11/2017",
+        "articleStartDateTime": "2017-11",
+        "articleEndDate": "02/2019",
+        "articleEndDateTime": "2019-02",
+        "articleDescription": "Diverses missions durant cette période de bénévolat : Gestion du site de l'association ; Gestion du contenu du serveur FTP et des différentes sections du site (excepté le forum et le devblog) ; Supervision des équipes de rédaction et de correction de l'association et participation aux réunions de développement des activités de celle-ci."
     }
 }

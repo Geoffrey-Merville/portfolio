@@ -1,21 +1,36 @@
+import React, { useEffect } from "react";
 import ExperienceBlockTitle from "./ExperienceBlockTitle";
 import ExperienceBlockItem from "./ExperienceBlockItem";
+import Data from "./data/data.json";
 
 const ExperienceBlock = ({ blockTitle }) => {
+  // Utiliser un tableau pour stocker les composants générés
+  const experienceItems = [];
+
+  useEffect(() => {
+    renderSection(Data["Expérience Professionnelle"], "Expérience Professionnelle");
+    renderSection(Data["Formations & Apprentissages"], "Formations & Apprentissages");
+    renderSection(Data["Formations en ligne"], "Formations en ligne");
+    renderSection([Data["Bénévolat"]], "Bénévolat");
+  }, []);
+
+  const renderSection = (sectionData, sectionTitle) => {
+    sectionData.forEach(item => {
+      // Ajouter chaque composant au tableau
+      experienceItems.push(
+        <ExperienceBlockItem 
+          key={item.id}
+          {...item}
+        />
+      );
+    });
+  };
+
   return (
     <>
       <ExperienceBlockTitle blockTitle={blockTitle} />
-      <ExperienceBlockItem
-          chipDate="2023" 
-          articleId=""
-          articleTitle="[Alternance] Concepteur et Développeur d’applications"
-          articleCompany="Dawan Lille"
-          articleStartDate="01/2023"
-          articleStartDateTime="2023-01-02T09:30:00"
-          articleEndDate="Aujourd'hui"
-          articleEndDateTime="2023-12"
-          articleDescription="Durant le contrat d'apprentissage, et pendant la période en entreprise, ma mission portait sur la conception, le développement et la maintenance d'un des projets de l'entreprise (Dawan Skills). Le projet étant déjà existant et en production, ma mission consistait principalement à participer au refactoring et à l'amélioration de la conception et du code du projet existant."
-        />
+      {/* Afficher le tableau de composants générés */}
+      {experienceItems}
     </>
   );
 };
