@@ -1,6 +1,7 @@
 import React from "react";
 
 const ExperienceBlockItem = ({
+  chipDate,
   articleId,
   articleTitle,
   articleCompany,
@@ -13,7 +14,7 @@ const ExperienceBlockItem = ({
   return (
     <div className="timeline-item">
       <div className="timeline-date">
-        <time></time>
+        <time datetime={chipDate}>{chipDate}</time>
       </div>
       <div className="timeline-circle"></div>
       <article id={articleId} className="timeline-content scroll-id">

@@ -1,4 +1,5 @@
 import React from "react";
+import ExperienceBlock from "./ExperienceBlock";
 import SectionTitle from "./SectionTitle";
 
 const Experience = () => {
@@ -9,6 +10,7 @@ const Experience = () => {
         description="Cette page détaillera mon parcours diplômant et professionnel.
         Cette page est susceptible d’évoluer à l’avenir en fonction des différentes expériences que j’aurai accumulées."
       />
+      <ExperienceBlock blockTitle="Expérience Professionnelle" />
     </main>
   );
 };
