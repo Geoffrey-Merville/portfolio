@@ -1,12 +1,13 @@
-import SectionTitle from "../SectionTitle";
+import SectionTitle from "./SectionTitle"
 
 const Projects = () => {
   return (
     <main>
       <SectionTitle
-        sectionTitle="Parcours Professionnel"
-        description="Cette page détaillera mon parcours diplômant et professionnel.
-        Cette page est susceptible d’évoluer à l’avenir en fonction des différentes expériences que j’aurai accumulées."
+        sectionTitle="Projets Réalisés"
+        description="Cette page listera l’ensemble des projets que j’ai réalisé,
+        que ce soient des projets d’études/d’entreprise ou des projets à titre purement personnels.
+        Cliquez sur les images des projets pour accéder au détail de chacun."
       />
     </main>
   )
