@@ -1,6 +1,6 @@
 import React from "react";
 import ExperienceBlock from "./ExperienceBlock";
-import SectionTitle from "./SectionTitle";
+import SectionTitle from "../SectionTitle";
 
 const Experience = () => {
   return (

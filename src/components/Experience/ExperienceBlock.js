@@ -1,9 +1,8 @@
 import ExperienceBlockTitle from "./ExperienceBlockTitle";
 import ExperienceBlockItem from "./ExperienceBlockItem";
-import Data from "./data/data.json";
+import Data from "../data/data.json";
 
 const ExperienceBlock = () => {
-
   return (
     <>
       {/* Convertit l'objet JSON en tableau exploitable */}
@@ -11,8 +10,8 @@ const ExperienceBlock = () => {
         <div key={key}>
           <ExperienceBlockTitle blockTitle={key} />
           {Data[key].map((item) => (
-              <ExperienceBlockItem key={item.id} {...item} />
-            ))}
+            <ExperienceBlockItem key={item.id} {...item} />
+          ))}
         </div>
       ))}
     </>

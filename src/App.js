@@ -1,9 +1,8 @@
 import "./App.css";
 import Header from "./components/Header";
 import Home from "./components/Home";
-//import Header from "./components/Header";
 import { Route, Routes } from "react-router-dom";
-import Experience from "./components/Experience";
+import Experience from "./components/Experience/Experience";
 
 function App() {
   return (
