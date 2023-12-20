@@ -6,9 +6,9 @@ const ExperienceBlockItem = ({
   articleTitle,
   articleCompany,
   articleStartDate,
-  articleStartDateTime,
+  articleStartDateValue,
   articleEndDate,
-  articleEndDateTime,
+  articleEndDateValue,
   articleDescription,
 }) => {
   return (
@@ -22,8 +22,8 @@ const ExperienceBlockItem = ({
           <h2>{articleTitle}</h2>
           <p className="location">
             <strong>{articleCompany}</strong> |
-            <time dateTime={articleStartDateTime}>{articleStartDate}</time> -
-            <time dateTime={articleEndDateTime}>{articleEndDate}</time>
+            <time dateTime={articleStartDateValue}>{articleStartDate}</time> -
+            <time dateTime={articleEndDateValue}>{articleEndDate}</time>
           </p>
         </hgroup>
         <p>{articleDescription}</p>

@@ -7,9 +7,9 @@
             "articleTitle": "[Alternance] Concepteur et Développeur d’applications",
             "articleCompany": "Dawan Lille",
             "articleStartDate": "01/2023",
-            "articleStartDateTime": "2023-01-02T09:30:00",
+            "articleStartDateValue": "2023-01-02T09:30:00",
             "articleEndDate": "Aujourd'hui",
-            "articleEndDateTime": "2023-12",
+            "articleEndDateValue": "2023-12",
             "articleDescription": "Durant le contrat d'apprentissage, et pendant la période en entreprise, ma mission portait sur la conception, le développement et la maintenance d'un des projets de l'entreprise (Dawan Skills). Le projet étant déjà existant et en production, ma mission consistait principalement à participer au refactoring et à l'amélioration de la conception et du code du projet existant."   
         },
         {
@@ -161,7 +161,7 @@
             "articleDescription": "Formation sur le langage C# 10 et partiellement sur .NET 6. La formation porte principalement sur les fondamentaux du langage, les nouveautés de .NET 6, la POO et les API REST."
         }
     ],
-    "Bénévolat": {
+    "Bénévolat": [{
         "id": 1,
         "chipDate": "2017", 
         "articleId": "",
@@ -172,5 +172,5 @@
         "articleEndDate": "02/2019",
         "articleEndDateTime": "2019-02",
         "articleDescription": "Diverses missions durant cette période de bénévolat : Gestion du site de l'association ; Gestion du contenu du serveur FTP et des différentes sections du site (excepté le forum et le devblog) ; Supervision des équipes de rédaction et de correction de l'association et participation aux réunions de développement des activités de celle-ci."
-    }
+    }]
 }
