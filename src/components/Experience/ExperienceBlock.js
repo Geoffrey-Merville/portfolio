@@ -7,12 +7,12 @@ const ExperienceBlock = () => {
     <>
       {/* Convertit l'objet JSON en tableau exploitable */}
       {Object.keys(Data).map((key) => (
-        <div key={key}>
+        <section key={key}>
           <ExperienceBlockTitle blockTitle={key} />
           {Data[key].map((item) => (
             <ExperienceBlockItem key={item.id} {...item} />
           ))}
-        </div>
+        </section>
       ))}
     </>
   );
