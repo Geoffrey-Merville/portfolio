@@ -1,6 +1,6 @@
 import ExperienceBlockTitle from "./ExperienceBlockTitle";
 import ExperienceBlockItem from "./ExperienceBlockItem";
-import Data from "../data/data.json";
+import Data from "../data/experience-data.json";
 
 const ExperienceBlock = () => {
   return (
