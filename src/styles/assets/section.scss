@@ -1,0 +1,36 @@
+.page-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+
+    .right-line, .left-line {
+        width: 500px;
+        height: 2px;
+        background: black;
+        margin: 0 25px;
+    }
+
+    h2 {
+        min-width: 500px;
+        font-size: 2.5rem;
+    }
+}
+
+#body-header {
+    font-size: 1.6rem;
+    white-space: pre-wrap;
+
+    p {
+        text-align: center;
+        margin-top: 20px;
+    }
+}
+
+section {
+    width: 100%;
+    margin: 35px auto 0 auto;
+    position: relative;
+
+    @import '_parcours.scss';
+}
