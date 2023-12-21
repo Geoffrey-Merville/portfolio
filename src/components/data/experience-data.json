@@ -10,7 +10,7 @@
             "articleStartDateValue": "2023-01-02T09:30:00",
             "articleEndDate": "<span class='today'>Aujourd'hui</span>",
             "articleEndDateValue": "2023-12",
-            "articleDescription": "Durant le contrat d'apprentissage, et pendant la période en entreprise, ma mission portait sur la conception, le développement et la maintenance d'un des projets de l'entreprise (<i><a href='https://skills.dawan.fr' rel='nofollow noopener noreferrer'>Dawan Skills</a></i>), le tout basé sur une <strong>méthologie agile</strong>. Le projet étant déjà existant et en production au moment de mon recrutement, ma mission consistait principalement à participer au <strong>refactoring</strong> du projet, à <strong>l'amélioration de la conception et du code</strong> du projet existant ainsi qu'au <strong>développement de nouvelles fonctionnalités</strong>."   
+            "articleDescription": "Durant le contrat d'apprentissage, et pendant la période en entreprise, ma mission portait sur la conception, le développement et la maintenance d'un des projets de l'entreprise (<i><a href='https://skills.dawan.fr' rel={linkRel}>Dawan Skills</a></i>), le tout basé sur une <strong>méthologie agile</strong>. Le projet étant déjà existant et en production au moment de mon recrutement, ma mission consistait principalement à participer au <strong>refactoring</strong> du projet, à <strong>l'amélioration de la conception et du code</strong> du projet existant ainsi qu'au <strong>développement de nouvelles fonctionnalités</strong>."   
         },
         {
             "id": 2,
@@ -22,7 +22,7 @@
             "articleStartDateTime": "2021-07",
             "articleEndDate": "09/2022",
             "articleEndDateTime": "2022-09",
-            "articleDescription": "Durant cette période, j’ai majoritairement contribué à la conception et au développement de mon projet personnel <a href='https://soularchives.net' rel='nofollow noopener noreferrer'>SoulArchives</a>.<br> Celui-ci est basé sur un back-end <strong>PHP</strong> avec <strong>Joomla!</strong> et une base de données <strong>MySQL</strong>, et un <strong>front-end natif<strong> sans framework."
+            "articleDescription": "Durant cette période, j’ai majoritairement contribué à la conception et au développement de mon projet personnel <a href='https://soularchives.net' rel={linkRel}>SoulArchives</a>.<br> Celui-ci est basé sur un back-end <strong>PHP</strong> avec <strong>Joomla!</strong> et une base de données <strong>MySQL</strong>, et un <strong>front-end natif<strong> sans framework."
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "articleStartDateTime": "2019-07-04T09:00:00",
             "articleEndDate": "09/2019",
             "articleEndDateTime": "2019-09-05T17:00:00",
-            "articleDescription": "Stage de fin d’année d’études à <a href='https://www.supinfo.com' rel='nofollow noopener noreferrer'>SUPINFO</a>. Lors de ce stage, ma mission a principalement été de participer à la <strong>configuration du serveur</strong> <i>(serveur <strong><abbr title='Linux NginX MySQL PHP'>LEMP</abbr></strong>)</i> et aux réunions le concernant."
+            "articleDescription": "Stage de fin d’année d’études à <a href='https://www.supinfo.com' rel={linkRel}>SUPINFO</a>. Lors de ce stage, ma mission a principalement été de participer à la <strong>configuration du serveur</strong> <i>(serveur <strong><abbr title='Linux NginX MySQL PHP'>LEMP</abbr></strong>)</i> et aux réunions le concernant."
         }
     ],
     "Formations & Apprentissages": [
@@ -72,7 +72,7 @@
             "articleStartDateTime": "2021-10-03T09:00:00",
             "articleEndDate": "06/2022",
             "articleEndDateTime": "2022-06-01T17:00:00",
-            "articleDescription": "Formation d'intégrateur web dispensée par <a href='https://www.epitech.eu' rel='nofollow noopener noreferrer'>EPITECH</a> afin de former au développement (front-end et back-end) d’applications web & web mobile. La première année de formation portait principalement sur <strong>PHP</strong>, <strong>MySQL</strong>, <strong>HTML 5 & CSS 3</strong> et un peu <strong>Bootstrap/JQuery</strong>."
+            "articleDescription": "Formation d'intégrateur web dispensée par <a href='https://www.epitech.eu' rel={linkRel}>EPITECH</a> afin de former au développement (front-end et back-end) d’applications web & web mobile. La première année de formation portait principalement sur <strong>PHP</strong>, <strong>MySQL</strong>, <strong>HTML 5 & CSS 3</strong> et un peu <strong>Bootstrap/JQuery</strong>."
         },
         {
             "id": 4,
@@ -84,7 +84,7 @@
             "articleStartDateTime": "2018-10-01T09:00:00",
             "articleEndDate": "07/2021",
             "articleEndDateTime": "2021-07-02T16:00:00",
-            "articleDescription": "Formation Master M2 en informatique dispensée par <a href='https://www.supinfo.com' rel='nofollow noopener noreferrer'>SUPINFO</a>. Domaines d'études divers : <strong>programmation</strong>, <strong>architecture IT</strong>, <strong>systèmes et réseaux</strong>..."
+            "articleDescription": "Formation Master M2 en informatique dispensée par <a href='https://www.supinfo.com' rel={linkRel}>SUPINFO</a>. Domaines d'études divers : <strong>programmation</strong>, <strong>architecture IT</strong>, <strong>systèmes et réseaux</strong>..."
         },
         {
             "id": 5,
