@@ -17,7 +17,7 @@ const Skills = () => {
                 SkillsData[category].map((skill, index) => (
                   <tr key={index}>
                     {index === 0 && <th rowSpan={SkillsData[category].length} scope="rowgroup">{category}</th>}
-                    <th scope="row">{skill.competence}</th>
+                    <th scope="row"><span>{skill.competence}</span></th>
                     <td>{skill.niveau}</td>
                     <td>
                       <ul>
