@@ -19,17 +19,18 @@
 
 #body-header {
     font-size: 1.6rem;
-    white-space: pre-wrap;
+    margin-top: 50px;
 
     p {
+        width: 90%;
         text-align: center;
-        margin-top: 20px;
+        margin: 20px auto 80px auto;
     }
 }
 
 section {
     width: 100%;
-    margin: 35px auto 0 auto;
+    margin: 35px auto 70px auto;
     position: relative;
 
     @import '_parcours.scss';
