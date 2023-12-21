@@ -1,0 +1,17 @@
+@import 'variables.scss';
+
+a {
+    color: $main-links;
+    display: inline-block;
+
+    &:hover {
+        color: $hovered-links;
+        text-decoration: none;
+    }
+
+    &:active {
+        color: $active-links;
+        text-decoration: underline;
+        transform: translate(1px, 1px);
+    }
+}
