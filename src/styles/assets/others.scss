@@ -10,6 +10,10 @@ abbr, .abbr-tooltip {
 abbr {
     text-decoration: inherit;
 
+    &:hover {
+        cursor: help;
+    }
+
     &::after {
         content: "";
         position: absolute;
