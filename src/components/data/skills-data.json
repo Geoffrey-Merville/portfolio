@@ -1,7 +1,7 @@
 {
-    "langues": [
+    "Langues": [
       {
-        "langue": "Français",
+        "nom": "Français",
         "niveau": "★★★★★",
         "experiences": [
           "[Alternance] Concepteur et Développeur d'Applications",
@@ -11,7 +11,7 @@
         ]
       },
       {
-        "langue": "Anglais",
+        "nom": "Anglais",
         "niveau": "★★★★★★",
         "experiences": [
           "[Alternance] Concepteur et Développeur d'Applications",
@@ -20,9 +20,9 @@
         ]
       }
     ],
-    "savoirEtre": [
+    "Savoir-Être": [
       {
-        "competence": "Faire preuve d'autonomie",
+        "nom": "Faire preuve d'autonomie",
         "niveau": "N/A",
         "experiences": [
           "[Alternance] Concepteur et Développeur d'Applications",
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "competence": "Faire preuve de curiosité",
+        "nom": "Faire preuve de curiosité",
         "niveau": "N/A",
         "experiences": [
           "[Alternance] Concepteur et Développeur d'Applications",
@@ -48,7 +48,7 @@
         ]
       },
       {
-        "competence": "Faire preuve de leadership",
+        "nom": "Faire preuve de leadership",
         "niveau": "N/A",
         "experiences": [
           "Gestionnaire Contenu & Équipe Rédaction",
@@ -56,7 +56,7 @@
         ]
       },
       {
-        "competence": "Faire preuve de persévérance",
+        "nom": "Faire preuve de persévérance",
         "niveau": "N/A",
         "experiences": [
           "[Alternance] Concepteur et Développeur d'Applications",
@@ -70,7 +70,7 @@
         ]
       },
       {
-        "competence": "Faire preuve de rigueur et de précision",
+        "nom": "Faire preuve de rigueur et de précision",
         "niveau": "N/A",
         "experiences": [
           "[Alternance] Concepteur et Développeur d'Applications",
@@ -84,7 +84,7 @@
         ]
       },
       {
-        "competence": "Faire preuve de réactivité",
+        "nom": "Faire preuve de réactivité",
         "niveau": "N/A",
         "experiences": [
           "[Alternance] Concepteur et Développeur d'Applications",
@@ -95,7 +95,7 @@
         ]
       },
       {
-        "competence": "Gérer son stress",
+        "nom": "Gérer son stress",
         "niveau": "N/A",
         "experiences": [
           "[Alternance] Concepteur et Développeur d'Applications",
@@ -106,7 +106,23 @@
         ]
       },
       {
-        "competence": "Organiser son travail selon les priorités et les objectifs",
+        "nom": "Organiser son travail selon les priorités et les objectifs",
+        "niveau": "N/A",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d'Applications",
+          "Développeur Indépendant",
+          "Développeur Web & Web Mobile",
+          "Developpeur C#",
+          "Developpeur Python",
+          "Spring Boot 3 For Beginners",
+          "Gestionnaire Contenu & Équipe Rédaction",
+          "Master d'Ingénierie en Informatique"
+        ]
+      }
+    ],
+    "Savoir-Faire": [
+      {
+        "nom": "Test",
         "niveau": "N/A",
         "experiences": [
           "[Alternance] Concepteur et Développeur d'Applications",

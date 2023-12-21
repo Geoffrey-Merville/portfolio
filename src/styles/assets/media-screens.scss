@@ -79,7 +79,20 @@
         }
     }
 
-    #skills th {
-        word-wrap: inherit;
+    #skills {
+        th {
+            word-wrap: inherit;
+        }
+        
+        span {
+            display: inline-block;
+            background: $chip-background;
+            border: $chip-border;
+            padding: 5px 1.5rem;
+            margin: 5px 1.5rem;
+            border-radius: 7px;
+            box-shadow:  $chip-shadow;
+            width: 150px;
+        }
     }
 }
