@@ -1,4 +1,5 @@
 import ExperienceBlock from "./ExperienceBlock";
+import Skills from "./Skills";
 import SectionTitle from "../SectionTitle";
 
 const Experience = () => {
@@ -10,6 +11,7 @@ const Experience = () => {
         Cette page est susceptible d’évoluer à l’avenir en fonction des différentes expériences que j’aurai accumulées."
       />
       <ExperienceBlock />
+      <Skills />
     </main>
   );
 };

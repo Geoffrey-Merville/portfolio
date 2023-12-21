@@ -1,0 +1,25 @@
+#skills {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin-bottom: 5rem;
+
+    .linked-experience {
+        color: black;
+        margin: 7px 0;
+
+        &:hover {
+            color: $hovered-table-link;
+        }
+
+        &::before {
+            content: "";
+            background: url("../../assets/images/link-icon.svg") no-repeat center/cover;
+            position: absolute;
+            margin-left: -3rem;
+            right: 29rem;
+            width: 2rem;
+            height: 2rem;
+        }
+    }
+  }
