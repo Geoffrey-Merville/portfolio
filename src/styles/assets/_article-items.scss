@@ -35,9 +35,9 @@
     font-size: 1.8rem;
     margin: 5px 10px 0 0;
     font-weight: bold;
-  }
+}
   
-  .timeline-content {
+.timeline-content {
     font-size: 1.4rem;
     margin-bottom: 20px;
     position: relative;
@@ -54,6 +54,7 @@
 
     .location {
         font-size: 1.6rem;
+        margin-top: 5px;
         margin-bottom: 1.5rem;
         font-style: italic;
     }
@@ -63,4 +64,21 @@
         font-weight: bold;
         font-style: italic;
     }
-  }
+}
+
+.article-footer {
+    margin-top: 2px;
+    font-style: italic;
+    position: relative;
+    display: inline-block;
+    margin-left: 12px;
+
+    &::before {
+        content: "»";
+        font-style: normal;
+        font-weight: bold;
+        position: absolute;
+        left: -12px;
+        top: -2px;
+    }
+}

@@ -10,7 +10,7 @@
             "articleStartDateValue": "2023-01-02T09:30:00",
             "articleEndDate": "<span class='today'>Aujourd'hui</span>",
             "articleEndDateValue": "2023-12",
-            "articleDescription": "Durant le contrat d'apprentissage, et pendant la période en entreprise, ma mission portait sur la conception, le développement et la maintenance d'un des projets de l'entreprise <i><a href='https://skills.dawan.fr' rel='nofollow noopener noreferrer'>(Dawan Skills)</a></i>, le tout basé sur une <strong>méthologie agile</strong>. Le projet étant déjà existant et en production au moment de mon recrutement, ma mission consistait principalement à participer au <strong>refactoring</strong> du projet, à <strong>l'amélioration de la conception et du code</strong> du projet existant ainsi qu'au <strong>développement de nouvelles fonctionnalités</strong>."   
+            "articleDescription": "Durant le contrat d'apprentissage, et pendant la période en entreprise, ma mission portait sur la conception, le développement et la maintenance d'un des projets de l'entreprise (<i><a href='https://skills.dawan.fr' rel='nofollow noopener noreferrer'>Dawan Skills</a></i>), le tout basé sur une <strong>méthologie agile</strong>. Le projet étant déjà existant et en production au moment de mon recrutement, ma mission consistait principalement à participer au <strong>refactoring</strong> du projet, à <strong>l'amélioration de la conception et du code</strong> du projet existant ainsi qu'au <strong>développement de nouvelles fonctionnalités</strong>."   
         },
         {
             "id": 2,
@@ -34,7 +34,7 @@
             "articleStartDateTime": "2019-07-04T09:00:00",
             "articleEndDate": "09/2019",
             "articleEndDateTime": "2019-09-05T17:00:00",
-            "articleDescription": "Stage de fin d’année d’études à <a href='https://www.supinfo.com' rel='nofollow noopener noreferrer'>SUPINFO</a>. Lors de ce stage, ma mission a principalement été de participer à la <strong>configuration du serveur</strong> <i>(serveur <strong>LEMP</strong>)</i> et aux réunions le concernant."
+            "articleDescription": "Stage de fin d’année d’études à <a href='https://www.supinfo.com' rel='nofollow noopener noreferrer'>SUPINFO</a>. Lors de ce stage, ma mission a principalement été de participer à la <strong>configuration du serveur</strong> <i>(serveur <strong><abbr title='Linux NginX MySQL PHP'>LEMP</abbr></strong>)</i> et aux réunions le concernant."
         }
     ],
     "Formations & Apprentissages": [
@@ -48,19 +48,19 @@
             "articleStartDateTime": "2023-01-02T09:30:00",
             "articleEndDate": "<span class='today'>Aujourd'hui</span>",
             "articleEndDateTime": "2023-12",
-            "articleDescription": "Apprentissage diplômant d'une license (Bac +3) en alternance, proposant diverses formations dispensées pour former aux méthodes de conceptualisation d'applications, à diverses technologies (langages, outils, etc.) et au déploiement des projets réalisés. Les technologies majoritairement utilisées sont <strong>Java</strong> avec <strong>Spring Boot</strong> et <strong>Maven</strong>, <strong>AngularJS</strong> avec <strong>TypeScript</strong>, et <strong>MariaDB</strong>."   
+            "articleDescription": "Apprentissage diplômant d'une licence (Bac +3) en alternance, proposant diverses formations dispensées pour former aux méthodes de conceptualisation d'applications, à diverses technologies (langages, outils, etc.) et au déploiement des projets réalisés. Les technologies majoritairement utilisées sont <strong>Java</strong> avec <strong>Spring Boot</strong> et <strong>Maven</strong>, <strong>AngularJS</strong> avec <strong>TypeScript</strong>, et <strong>MariaDB</strong>."   
         },
         {
             "id": 2,
             "chipDate": "2022", 
             "articleId": "",
-            "articleTitle": "POEC .NET Framework",
+            "articleTitle": "<abbr title=\"Préparation opérationnelle à l'emploi collective\">POEC</abbr> .NET Framework",
             "articleCompany": "Dawan Lille",
             "articleStartDate": "09/2022",
             "articleStartDateTime": "2022-09-19T09:30:00",
             "articleEndDate": "12/2022",
             "articleEndDateTime": "2022-12-15T17:00:00",
-            "articleDescription": "POEC dispensée par Dawan pour former sur les technologies liées au <strong>.NET Framework</strong> de Microsoft. (C#, ASP.NET, WPF etc.)"
+            "articleDescription": "<abbr title=\"Préparation opérationnelle à l'emploi collective\">POEC</abbr> dispensée par Dawan pour former sur les technologies liées au <strong>.NET Framework</strong> de Microsoft. (C#, ASP.NET, <abbr title='Windows Presentation Foundation'>WPF</abbr> etc.)"
         },
         {
             "id": 3,
@@ -106,11 +106,9 @@
             "articleId": "",
             "articleTitle": "Formation ReactJS - Full Course For Beginners",
             "articleCompany": "Dave Gray - Youtube",
-            "articleStartDate": "",
-            "articleStartDateTime": "",
-            "articleEndDate": "",
-            "articleEndDateTime": "",
-            "articleDescription": "Formation complète pour débutants sur la librairie JavaScript <strong>ReactJS</strong> et développement de projets de cours pour s'exercer. Divers concepts tels que les <strong>Routers</strong>, les <strong>hooks</strong>, les <strong><abbr title='Application Programming Interface'>API</abbr> calls</strong> (via une <abbr title='Application Programming Interface'>API</abbr> <abbr title='Representational State Transfer'>REST</abbr>) ou encore les opérations <strong><abbr title='Create Read Update Delete'>CRUD</abbr></strong> ont été abordés durant cette formation."   
+            "articleDescription": "Formation complète pour débutants sur la librairie JavaScript <strong>ReactJS</strong> et développement de projets de cours pour s'exercer. Divers concepts tels que les <strong>Routers</strong>, les <strong>hooks</strong>, les <strong><abbr title='Application Programming Interface'>API</abbr> calls</strong> (via une <abbr title='Application Programming Interface'>API</abbr> <abbr title='Representational State Transfer'>REST</abbr>) ou encore les opérations <strong><abbr title='Create Read Update Delete'>CRUD</abbr></strong> ont été abordés durant cette formation.",  
+            "trainingCourseLink": "https://www.youtube.com/watch?v=RVFAyFWO4go/",
+            "trainerWebsite": "https://courses.davegray.codes"
         },
         {
             "id": 2,
@@ -118,11 +116,10 @@
             "articleId": "",
             "articleTitle": "Formation <abbr title='Intelligence Artificielle'>IA</abbr> 2023 - ChatGPT, <abbr title='Generative Pre-trained Transformer'>GPT</abbr>4, Midjourney-Stable Diffusion",
             "articleCompany": "Jonathan Roux - Udemy",
-            "articleStartDate": "",
-            "articleStartDateTime": "",
-            "articleEndDate": "",
-            "articleEndDateTime": "",
-            "articleDescription": "Formation complète sur l'utilisation et la compréhension approfondie des <strong><abbr title='Intelligence Artificielle'>IA</abbr> génératives</strong> telles que <strong>ChatGPT</strong>, les modèles <strong><abbr title='Generative Pre-trained Transformer'>GPT</abbr>-3.5/<abbr title='Generative Pre-trained Transformer'>GPT</abbr>-4</strong>, <strong>MidJourney/Stable Diffusion</strong>, etc. Cette formation a principalement pour but de mieux comprendre le fonctionnement de ces IA afin d'améliorer les prompts utilisés et ainsi maximiser l'efficacité de ces outils."
+            "articleDescription": "Formation complète sur l'utilisation et la compréhension approfondie des <strong><abbr title='Intelligence Artificielle'>IA</abbr> génératives</strong> telles que <strong>ChatGPT</strong>, les modèles <strong><abbr title='Generative Pre-trained Transformer'>GPT</abbr>-3.5/<abbr title='Generative Pre-trained Transformer'>GPT</abbr>-4</strong>, <strong>MidJourney/Stable Diffusion</strong>, etc. Cette formation a principalement pour but de mieux comprendre le fonctionnement de ces IA afin d'améliorer les prompts utilisés et ainsi maximiser l'efficacité de ces outils.",
+            "trainingCourseLink": "https://www.udemy.com/course/formation-complete-ia-generatives/",
+            "trainerProfileLink": "https://www.udemy.com/user/jonathan-roux-2",
+            "trainerWebsiteLink": "https://codeavecjonathan.com/"
         },
         {
             "id": 3,
@@ -130,11 +127,8 @@
             "articleId": "",
             "articleTitle": "Spring Boot 3 For Beginners",
             "articleCompany": "AmigosCode",
-            "articleStartDate": "",
-            "articleStartDateTime": "",
-            "articleEndDate": "",
-            "articleEndDateTime": "",
-            "articleDescription": "Formation sur le framework Java <strong>Spring Boot 3</strong> avec <strong>Maven</strong>, formant sur les bases du framework et comment créer une <abbr title='Application Programming Interface'>API</abbr> pour nos applications web."
+            "articleDescription": "Formation sur le framework Java <strong>Spring Boot 3</strong> avec <strong>Maven</strong>, formant sur les bases du framework et comment créer une <abbr title='Application Programming Interface'>API</abbr> pour nos applications web.",
+            "trainerWebsiteLink": "https://amigoscode.com/courses/"
         },
         {
             "id": 4,
@@ -142,11 +136,10 @@
             "articleId": "",
             "articleTitle": "Développeur Python",
             "articleCompany": "Jonathan Roux - Udemy",
-            "articleStartDate": "",
-            "articleStartDateTime": "",
-            "articleEndDate": "",
-            "articleEndDateTime": "",
-            "articleDescription": "Formation complète sur le langage <strong>Python</strong>. Divers projets y sont réalisés, tels que des micro-applications, des applications web et même des jeux vidéo, en utilisant diverses technologies et frameworks tels que <strong>Django</strong>."
+            "articleDescription": "Formation complète sur le langage <strong>Python</strong>. Divers projets y sont réalisés, tels que des micro-applications, des applications web et même des jeux vidéo, en utilisant diverses technologies et frameworks tels que <strong>Django</strong>.",
+            "trainingCourseLink": "https://www.udemy.com/course/developpeur-python-formation-complete/",
+            "trainerProfileLink": "https://www.udemy.com/user/jonathan-roux-2",
+            "trainerWebsiteLink": "https://codeavecjonathan.com/"
         },
         {
             "id": 5,
@@ -154,11 +147,10 @@
             "articleId": "",
             "articleTitle": "Développeur C#",
             "articleCompany": "Jonathan Roux - Udemy",
-            "articleStartDate": "",
-            "articleStartDateTime": "",
-            "articleEndDate": "",
-            "articleEndDateTime": "",
-            "articleDescription": "Formation sur le langage <strong>C# 10</strong> et partiellement sur <strong>.NET 6</strong>. La formation porte principalement sur les fondamentaux du langage, les nouveautés de .NET 6, la <dfn><strong><abbr title='Programmation Orientée Objet'>POO</abbr></strong> (Programmation Orientée Objet)</dfn> et les <strong><abbr title='Application Programming Interface'>API</abbr> <abbr title='Representational State Transfer'>REST</abbr></strong>."
+            "articleDescription": "Formation sur le langage <strong>C# 10</strong> et partiellement sur <strong>.NET 6</strong>. La formation porte principalement sur les fondamentaux du langage, les nouveautés de .NET 6, la <dfn><strong><abbr title='Programmation Orientée Objet'>POO</abbr></strong> (Programmation Orientée Objet)</dfn> et les <strong><abbr title='Application Programming Interface'>API</abbr> <abbr title='Representational State Transfer'>REST</abbr></strong>.",
+            "trainingCourseLink": "https://www.udemy.com/course/developpeur-cs-formation-complete/",
+            "trainerProfileLink": "https://www.udemy.com/user/jonathan-roux-2",
+            "trainerWebsiteLink": "https://codeavecjonathan.com/"
         }
     ],
     "Bénévolat": [{
@@ -171,6 +163,8 @@
         "articleStartDateTime": "2017-11",
         "articleEndDate": "02/2019",
         "articleEndDateTime": "2019-02",
-        "articleDescription": "Diverses missions durant cette période de bénévolat : <ul><li>Gestion du site de l'association</li><li>Gestion du contenu du serveur <abbr title='File Transfer Protocole'>FTP</abbr> et des différentes sections du site (excepté le forum et le devblog)</li><li>Supervision des équipes de rédaction et de correction de l'association et participation aux réunions de développement des activités de celle-ci.</li>"
+        "articleDescription": "Diverses missions durant cette période de bénévolat : <ul><li>Gestion du site de l'association</li><li>Gestion du contenu du serveur <abbr title='File Transfer Protocole'>FTP</abbr> et des différentes sections du site (excepté le forum et le devblog)</li><li>Supervision des équipes de rédaction et de correction de l'association et participation aux réunions de développement des activités de celle-ci.</li>",
+        "trainerWebsitePlaceholder": "Site de l'association",
+        "trainerWebsiteLink": "https://www.touhou-online.net"
     }]
 }

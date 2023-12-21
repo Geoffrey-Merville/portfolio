@@ -10,6 +10,10 @@ const ExperienceBlockItem = ({
   articleEndDate,
   articleEndDateValue,
   articleDescription,
+  trainingCourseLink,
+  trainerProfileLink,
+  trainerWebsiteLink,
+  trainerWebsitePlaceholder,
 }) => {
   return (
     <div className="timeline-item">
@@ -26,6 +30,10 @@ const ExperienceBlockItem = ({
         articleEndDateValue={articleEndDateValue}
         articleEndDate={articleEndDate}
         articleDescription={articleDescription}
+        trainingCourseLink={trainingCourseLink}
+        trainerProfileLink={trainerProfileLink}
+        trainerWebsiteLink={trainerWebsiteLink}
+        trainerWebsitePlaceholder={trainerWebsitePlaceholder}
       />
     </div>
   );

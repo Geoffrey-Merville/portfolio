@@ -9,9 +9,15 @@
 html {
     font-size: 62.5%;
     font-family: Arial, Tahoma, sans-serif;
-  }
+}
   
-  body {
+body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-  }
+}
+
+main {
+    margin: 30px 10px 0;
+    position: relative;
+    z-index: 0;
+}
