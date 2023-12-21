@@ -1,3 +1,5 @@
+import Article from "./Article";
+
 const ExperienceBlockItem = ({
   chipDate,
   articleId,
@@ -15,18 +17,16 @@ const ExperienceBlockItem = ({
         <time dateTime={chipDate}>{chipDate}</time>
       </div>
       <div className="timeline-circle"></div>
-      <article id={articleId} className="timeline-content scroll-id">
-        <hgroup>
-          <h2>{articleTitle}</h2>
-          <p className="location">
-            <strong>{articleCompany}</strong> |
-            <time dateTime={articleStartDateValue}>{articleStartDate}</time> -
-            <time dateTime={articleEndDateValue}>{articleEndDate}</time>
-          </p>
-        </hgroup>
-        <p>{articleDescription}</p>
-        <footer></footer>
-      </article>
+      <Article
+        articleId={articleId}
+        articleTitle={articleTitle}
+        articleCompany={articleCompany}
+        articleStartDateValue={articleStartDateValue}
+        articleStartDate={articleStartDate}
+        articleEndDateValue={articleEndDateValue}
+        articleEndDate={articleEndDate}
+        articleDescription={articleDescription}
+      />
     </div>
   );
 };
