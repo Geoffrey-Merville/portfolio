@@ -14,6 +14,7 @@ const ExperienceBlockItem = ({
   trainerProfileLink,
   trainerWebsiteLink,
   trainerWebsitePlaceholder,
+  longLoadingWebsite
 }) => {
   return (
     <div className="timeline-item">
@@ -34,6 +35,7 @@ const ExperienceBlockItem = ({
         trainerProfileLink={trainerProfileLink}
         trainerWebsiteLink={trainerWebsiteLink}
         trainerWebsitePlaceholder={trainerWebsitePlaceholder}
+        longLoadingWebsite={longLoadingWebsite}
       />
     </div>
   );

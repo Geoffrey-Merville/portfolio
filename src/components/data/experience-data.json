@@ -128,7 +128,8 @@
             "articleTitle": "Spring Boot 3 For Beginners",
             "articleCompany": "AmigosCode",
             "articleDescription": "Formation sur le framework Java <strong>Spring Boot 3</strong> avec <strong>Maven</strong>, formant sur les bases du framework et comment créer une <abbr title='Application Programming Interface'>API</abbr> pour nos applications web.",
-            "trainerWebsiteLink": "https://amigoscode.com/courses/"
+            "trainerWebsiteLink": "https://amigoscode.com/courses/",
+            "longLoadingWebsite": true
         },
         {
             "id": 4,

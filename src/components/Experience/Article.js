@@ -13,6 +13,7 @@ const Article = ({
   trainerProfileLink,
   trainerWebsiteLink,
   trainerWebsitePlaceholder,
+  longLoadingWebsite
 }) => {
   const cleanTitle = DOMPurify.sanitize(articleTitle);
   const cleanEndDate = DOMPurify.sanitize(articleEndDate);
@@ -67,9 +68,12 @@ const Article = ({
           ""
         )}
         {trainerWebsiteLink ? (
-          <a title={"Lien vers le site web de " + articleCompany.replace(/ - .*/, '')} href={trainerWebsiteLink} rel={linkRel}>
+          <>
+            <a title={"Lien vers le site web de " + articleCompany.replace(/ - .*/, '')} href={trainerWebsiteLink} rel={linkRel}>
             {trainerWebsitePlaceholder ? trainerWebsitePlaceholder : "Site du formateur"}
           </a>
+          {longLoadingWebsite ? <span className="tooltip">i</span> : null}
+          </>
         ) : (
           ""
         )}
