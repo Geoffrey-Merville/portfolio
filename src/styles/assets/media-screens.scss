@@ -1,3 +1,21 @@
+@media screen and (min-width: 1150px) {
+    #skills span {
+            display: inline-block;
+            background: $chip-background;
+            border: $chip-border;
+            padding: 5px 1.5rem;
+            margin: 5px 1.5rem;
+            border-radius: 7px;
+            box-shadow:  $chip-shadow;
+            width: auto;
+    
+            &:hover {
+                cursor: help;
+                box-shadow: $chip-shadow-table;
+            }
+    }
+}
+
 @media screen and (min-width: 850px) {
     .header {
         justify-content: space-between;
