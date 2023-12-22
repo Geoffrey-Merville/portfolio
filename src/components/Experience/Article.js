@@ -48,7 +48,7 @@ const Article = ({
       {trainingCourseLink || trainerWebsiteLink || trainerProfileLink ? <footer className="article-footer">
         {trainingCourseLink ? (
           <>
-            <a href={trainingCourseLink} rel={linkRel}>
+            <a title={"Lien du cours " + articleTitle.replace(/<[^>]*>/g, '')} href={trainingCourseLink} rel={linkRel}>
                 Lien vers le cours
             </a>
             {trainerProfileLink ? <span> | </span> : ""}
@@ -58,7 +58,7 @@ const Article = ({
         )}
         {trainerProfileLink ? (
           <>
-            <a href={trainerProfileLink} rel={linkRel}>
+            <a title="Lien vers le profil Udemy du formateur" href={trainerProfileLink} rel={linkRel}>
                 Profil du formateur
             </a>
             {trainerWebsiteLink ? <span> | </span> : ""}
@@ -67,7 +67,7 @@ const Article = ({
           ""
         )}
         {trainerWebsiteLink ? (
-          <a href={trainerWebsiteLink} rel={linkRel}>
+          <a title={"Lien vers le site web de " + articleCompany.replace(/ - .*/, '')} href={trainerWebsiteLink} rel={linkRel}>
             {trainerWebsitePlaceholder ? trainerWebsitePlaceholder : "Site du formateur"}
           </a>
         ) : (
