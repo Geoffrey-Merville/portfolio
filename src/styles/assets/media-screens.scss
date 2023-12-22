@@ -22,6 +22,7 @@
         align-items: center;
         position: sticky;
         flex-direction: row;
+        height: 90px;
 
         #portfolio-owner {
             padding: 0 50px 0 0;
@@ -31,7 +32,6 @@
         .nav {
             display: flex;
             align-items: center;
-            height: 100px;
             margin-top: 0;
             margin-left: 15px;
             transition: 0.3s ease-out background-color;
