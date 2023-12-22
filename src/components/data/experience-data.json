@@ -3,7 +3,7 @@
         {
             "id": 1,
             "chipDate": "2023", 
-            "articleId": "",
+            "articleId": "cda-dawan-ent",
             "articleTitle": "Concepteur et Développeur d’applications",
             "articleCompany": "Dawan Lille",
             "articleStartDate": "01/2023",
@@ -15,7 +15,7 @@
         {
             "id": 2,
             "chipDate": "2021", 
-            "articleId": "",
+            "articleId": "independent-dev",
             "articleTitle": "Développeur Indépendant",
             "articleCompany": "Lille",
             "articleStartDate": "07/2021",
@@ -27,7 +27,7 @@
         {
             "id": 3,
             "chipDate": "2019", 
-            "articleId": "",
+            "articleId": "stage-supinfo",
             "articleTitle": "Stage de Fin d'Année d'Études",
             "articleCompany": "Touhou-Online",
             "articleStartDate": "07/2019",
@@ -41,7 +41,7 @@
         {
             "id": 1,
             "chipDate": "2023", 
-            "articleId": "",
+            "articleId": "cda-dawan-training",
             "articleTitle": "Concepteur et Développeur d’applications",
             "articleCompany": "Dawan Lille",
             "articleStartDate": "01/2023",
@@ -53,7 +53,7 @@
         {
             "id": 2,
             "chipDate": "2022", 
-            "articleId": "",
+            "articleId": "dotnet-dawan",
             "articleTitle": "<abbr title=\"Préparation opérationnelle à l'emploi collective\">POEC</abbr> .NET Framework",
             "articleCompany": "Dawan Lille",
             "articleStartDate": "09/2022",
@@ -65,7 +65,7 @@
         {
             "id": 3,
             "chipDate": "2021", 
-            "articleId": "",
+            "articleId": "dev-web-epitech",
             "articleTitle": "Développeur Web & Web Mobile - Web@cadémie",
             "articleCompany": "EPITECH Lille",
             "articleStartDate": "10/2021",
@@ -77,7 +77,7 @@
         {
             "id": 4,
             "chipDate": "2018", 
-            "articleId": "",
+            "articleId": "master-training-supinfo",
             "articleTitle": "Master d’ingénierie en Informatique",
             "articleCompany": "SUPINFO Valenciennes",
             "articleStartDate": "10/2018",
@@ -89,7 +89,7 @@
         {
             "id": 5,
             "chipDate": "2016", 
-            "articleId": "",
+            "articleId": "bac",
             "articleTitle": "Baccalauréat Scientifique - Science de l'Ingénieur",
             "articleCompany": "Lycée Jacquard Caudry",
             "articleStartDate": "09/2016",
@@ -103,7 +103,7 @@
         {
             "id": 1,
             "chipDate": "2023", 
-            "articleId": "",
+            "articleId": "react-training",
             "articleTitle": "Formation ReactJS - Full Course For Beginners",
             "articleCompany": "Dave Gray - Youtube",
             "articleDescription": "Formation complète pour débutants sur la librairie JavaScript <strong>ReactJS</strong> et développement de projets de cours pour s'exercer. Divers concepts tels que les <strong>Routers</strong>, les <strong>hooks</strong>, les <strong><abbr title='Application Programming Interface'>API</abbr> calls</strong> (via une <abbr title='Application Programming Interface'>API</abbr> <abbr title='Representational State Transfer'>REST</abbr>) ou encore les opérations <strong><abbr title='Create Read Update Delete'>CRUD</abbr></strong> ont été abordés durant cette formation.",  
@@ -113,7 +113,7 @@
         {
             "id": 2,
             "chipDate": "2023", 
-            "articleId": "",
+            "articleId": "python-training",
             "articleTitle": "Formation <abbr title='Intelligence Artificielle'>IA</abbr> 2023 - ChatGPT, <abbr title='Generative Pre-trained Transformer'>GPT</abbr>4, Midjourney-Stable Diffusion",
             "articleCompany": "Jonathan Roux - Udemy",
             "articleDescription": "Formation complète sur l'utilisation et la compréhension approfondie des <strong><abbr title='Intelligence Artificielle'>IA</abbr> génératives</strong> telles que <strong>ChatGPT</strong>, les modèles <strong><abbr title='Generative Pre-trained Transformer'>GPT</abbr>-3.5/<abbr title='Generative Pre-trained Transformer'>GPT</abbr>-4</strong>, <strong>MidJourney/Stable Diffusion</strong>, etc. Cette formation a principalement pour but de mieux comprendre le fonctionnement de ces IA afin d'améliorer les prompts utilisés et ainsi maximiser l'efficacité de ces outils.",
@@ -124,7 +124,7 @@
         {
             "id": 3,
             "chipDate": "2023", 
-            "articleId": "",
+            "articleId": "spring-boot-training",
             "articleTitle": "Spring Boot 3 For Beginners",
             "articleCompany": "AmigosCode",
             "articleDescription": "Formation sur le framework Java <strong>Spring Boot 3</strong> avec <strong>Maven</strong>, formant sur les bases du framework et comment créer une <abbr title='Application Programming Interface'>API</abbr> pour nos applications web.",
@@ -133,7 +133,7 @@
         {
             "id": 4,
             "chipDate": "2022", 
-            "articleId": "",
+            "articleId": "python-training",
             "articleTitle": "Développeur Python",
             "articleCompany": "Jonathan Roux - Udemy",
             "articleDescription": "Formation complète sur le langage <strong>Python</strong>. Divers projets y sont réalisés, tels que des micro-applications, des applications web et même des jeux vidéo, en utilisant diverses technologies et frameworks tels que <strong>Django</strong>.",
@@ -144,7 +144,7 @@
         {
             "id": 5,
             "chipDate": "2022", 
-            "articleId": "",
+            "articleId": "csharp-training",
             "articleTitle": "Développeur C#",
             "articleCompany": "Jonathan Roux - Udemy",
             "articleDescription": "Formation sur le langage <strong>C# 10</strong> et partiellement sur <strong>.NET 6</strong>. La formation porte principalement sur les fondamentaux du langage, les nouveautés de .NET 6, la <dfn><strong><abbr title='Programmation Orientée Objet'>POO</abbr></strong> (Programmation Orientée Objet)</dfn> et les <strong><abbr title='Application Programming Interface'>API</abbr> <abbr title='Representational State Transfer'>REST</abbr></strong>.",
@@ -156,7 +156,7 @@
     "Bénévolat": [{
         "id": 1,
         "chipDate": "2017", 
-        "articleId": "",
+        "articleId": "benevolat",
         "articleTitle": "Gestionnaire du contenu et de la rédaction",
         "articleCompany": "Touhou-Online",
         "articleStartDate": "11/2017",
