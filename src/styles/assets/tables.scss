@@ -83,5 +83,10 @@
         box-shadow:  $chip-shadow;
         width: auto;
         word-break: break-all;
+
+        &:hover {
+            cursor: help;
+            box-shadow: $chip-shadow-table;
+        }
     }
   }
