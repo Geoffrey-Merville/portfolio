@@ -6,20 +6,27 @@
 
     .linked-experience {
         color: black;
-        margin: 7px 0;
+        word-break: break-all;
+        margin: 7px 5px 0;
 
         &:hover {
             color: $hovered-table-link;
         }
+    }
 
-        &::before {
-            content: "";
-            background: url("assets/images/link-icon.svg") no-repeat center/cover;
-            position: absolute;
-            margin-left: -30px;
-            right: 290px;
-            width: 20px;
-            height: 20px;
+    ul {
+        //list-style-image: url("assets/images/link-icon.svg");
+        line-height: 2.5rem;
+        margin-left: 5px;
+
+        li {
+            padding-left: 25px;
+            background-image: url("assets/images/link-icon.svg");
+            background-repeat: no-repeat;
+            background-position: left center; /* Ajustez selon vos besoins */
+            display: flex;
+            align-items: center; /* Centre l'élément verticallement */
+            justify-content: center;
         }
     }
 
@@ -58,19 +65,12 @@
         font-size: 1.6rem;
 
         ul {
-            margin: 10px 30px 15px;
-            list-style: none;
-            width: 250px;
-
-            li {
-                margin: 5px 0;
-            }
+            font-size: 1.5rem;
         }
     }
 
     th {
         font-size: 1.8rem;
         padding: 7px 10px;
-        min-width: 300px;
     }
   }

@@ -83,6 +83,19 @@
         th {
             word-wrap: inherit;
         }
+
+        .linked-experience {
+            word-break: inherit;
+        }
+
+        ul {
+            max-width: 350px;
+            margin-left: 20px;
+            
+            li {
+                padding-left: 25px;
+            }   
+        }
         
         span {
             display: inline-block;
