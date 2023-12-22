@@ -72,4 +72,16 @@
         font-size: 1.8rem;
         padding: 7px 10px;
     }
+
+    span {
+        display: inline-block;
+        background: $chip-background;
+        border: $chip-border;
+        padding: 5px 1.5rem;
+        margin: 5px 1.5rem;
+        border-radius: 7px;
+        box-shadow:  $chip-shadow;
+        width: auto;
+        word-break: break-all;
+    }
   }
