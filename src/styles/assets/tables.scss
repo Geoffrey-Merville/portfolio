@@ -15,7 +15,6 @@
     }
 
     ul {
-        //list-style-image: url("assets/images/link-icon.svg");
         line-height: 2.5rem;
         margin-left: 5px;
 
@@ -23,9 +22,9 @@
             padding-left: 25px;
             background-image: url("assets/images/link-icon.svg");
             background-repeat: no-repeat;
-            background-position: left center; /* Ajustez selon vos besoins */
+            background-position: left center;
             display: flex;
-            align-items: center; /* Centre l'élément verticallement */
+            align-items: center;
             justify-content: center;
         }
     }
