@@ -1,7 +1,23 @@
 import React from "react";
 import SkillsData from "../data/skills-data.json";
+import ExpData from "../data/experience-data.json";
 
 const Skills = () => {
+
+  const handleHref = (experience) => {
+    for (const expCat of Object.keys(ExpData)) {
+      for (const exp of ExpData[expCat]) {
+        //console.log("Comparing:", exp.articleTitle, experience);
+        console.log(exp.articleTitle in ExpData[expCat])
+        if (exp.articleTitle.replace("</abbr>", "").includes(experience)) {
+          //console.log("Match Found: ", exp.articleTitle, experience)
+          return `#${exp.articleId}`;
+        }
+      }
+    }
+    return "#"; // Si aucune correspondance n'est trouvée
+  };
+
   return (
     <section>
       <table id="skills">
@@ -19,12 +35,15 @@ const Skills = () => {
               <React.Fragment key={index}>
                 {skill.spacers ? (
                   <tr className="empty-cell">
-                    <th colSpan='4'></th>
+                    <th colSpan="4"></th>
                   </tr>
                 ) : (
                   <tr key={index}>
                     {index === 0 && (
-                      <th rowSpan={SkillsData[category].length} scope="rowgroup">
+                      <th
+                        rowSpan={SkillsData[category].length}
+                        scope="rowgroup"
+                      >
                         {category}
                       </th>
                     )}
@@ -33,18 +52,19 @@ const Skills = () => {
                     </th>
                     <td>{skill.niveau}</td>
                     <td>
-                      {skill.experiences ? <ul>
-                        {skill.experiences.map((experience, expIndex) => (
-                          <li key={expIndex}>
-                            <a
-                              className="linked-experience"
-                              href={`#${experience}`}
-                            >
-                              {experience}
-                            </a>
-                          </li>
-                        ))}
-                        </ul> : ""}
+                      {skill.experiences ? (
+                        <ul>
+                          {skill.experiences.map((experience, expIndex) => (
+                            <li key={expIndex}>
+                              <a className="linked-experience" href={handleHref(experience)}>
+                                {experience}
+                              </a>
+                            </li>
+                          ))}
+                        </ul>
+                      ) : (
+                        ""
+                      )}
                     </td>
                   </tr>
                 )}
