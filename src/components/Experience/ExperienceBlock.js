@@ -9,7 +9,6 @@ const ExperienceBlock = () => {
       {/* Convertit l'objet JSON en tableau exploitable */}
       {Object.keys(Data).map((key) => (
         <section key={key} id={key === "Formations en ligne" ? "online-training" : null}>
-          {console.log(process.env.PUBLIC_URL)}
           {key === "Formations en ligne" ? <a id="certificates" href={certificates} download>Télécharger certificats de formation</a> : ""}
           <ExperienceBlockTitle blockTitle={key} />
           {Data[key].map((item) => (
