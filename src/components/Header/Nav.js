@@ -1,4 +1,4 @@
-import CustomLink from "./RouterLinks/CustomLink";
+import CustomLink from "../RouterLinks/CustomLink";
 
 const Nav = () => {
   return (
