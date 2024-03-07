@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Geoffrey MERVILLE">
+    <meta name="description" content="Page détaillant le projet intitulé 'SoulArchives' réalisé à titre personnel.">
+    <meta name="keywords" content="portfolio, projets personnels" />
+    <meta name="robots" content="index, follow" />
+    <meta http-equiv="expires" content="43200" />
+    <link rel="canonical" href="https://kuragiia.github.io/portfolio/html/projets/personnel/soularchives.html">
+    <link rel="stylesheet" href="../../../styles.css">
+    <title>Portfolio Personnel | Geoffrey MERVILLE</title>
+    <script src="../../../js/scripts.js" defer async></script>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="../../../index.html">Accueil</a></li>
+          <li><a href="../../parcours.html">Parcours</a></li>
+          <li><a href="../../projets.html">Projets</a></li>
+          <li><a href="../../cv.html">CV</a></li>
+          <li>
+            <a id="contact-button" href="../../contact.html">Me Contacter</a>
+          </li>
+        </ul>
+      </nav>
+      <div id="vertical-separator"></div>
+      <div id="portfolio-owner">
+        <h1 id="portfolio-name">Geoffrey Merville</h1>
+        <h2 id="portfolio-title">Concepteur Développeur</h2>
+      </div>
+    </header>
+    <main>
+      <header id="body-header">
+        <div class="page-title">
+          <div class="right-line"></div>
+          <h1>Projet Personnel n°1</h1>
+          <div class="left-line"></div>
+        </div>
+      </header>
+      <section id="project-details">
+        <a id="back-button" onclick="history.back()">&lsaquo; Retour</a>
+        <hgroup>
+          <h4>Nom : SoulArchives</h4>
+          <p>
+            <strong>Description du projet :</strong>SoulArchives est une application web
+            orientée guides et conseils pour les joueurs du jeu
+            <a
+              href="https://store.steampowered.com/app/1377580/Soulworker/"
+              rel="nofollow noopener noreferrer"
+              target="_blank"
+              >SoulWorker</a
+            >. Le site contient également des listes de données type base de
+            données d'items et lootboxes pour ceux recherchant des détails sur un
+            objet spécifique du jeu.
+          </p>
+        </hgroup>
+        <p>
+          <strong>Contexte de Réalisation :</strong> SoulWorker est un MMO-ARPG présentant
+          la particularité de ne posséder que peu de ressources accessibles sur
+          le web concernant les guides et autres ressources exploitables du
+          genre. De plus, pour le peu de ressources existantes, la plupart sont
+          obsolètes (non mises à jour) voire entièrement ou partiellement
+          fausses. <br>SoulArchives vient tenter de répondre à ces besoins en
+          proposant guides, listes, conseils et autres ressources, à la libre
+          disposition des utilisateurs recherchant ce type de contenu.<br><br>
+          Étant à l'origine une feuille Google Sheets, le projet a dû évoluer en
+          application web pour diverses raisons :
+        </p>
+        <ul>
+          <li>
+            Trop de contenu pour une Google Sheet. Les utilisateurs finissaient
+            par s'y perdre et/ou ne remarquaient pas toujours les autres pages.
+          </li>
+          <li>
+            Il est difficile d'y stocker des images, même légères, en grande
+            quantité sur une même page sans causer un chargement long.
+          </li>
+          <li>
+            La Google sheets existe actuellement en 2 langues (français et
+            anglais) et tend à devenir multilangue en rajoutant des langues
+            comme le coréen, le japonais, l'allemand, l'italien, l'espagnol,
+            etc.<br>
+            Devoir éditer chaque document dans les différentes langues devient
+            fastidieux et très long sans possibilité de centraliser les données
+            et éléments communs.
+          </li>
+          <li>
+            Il est très difficile, malgré publication sur le web, de voir une
+            Google Sheets indexée de sorte à remonter dans les résultats de
+            recherche sur les moteurs de recherche. De ce fait, il est très
+            probable que plusieurs joueurs n'aient pas réussi à trouver la
+            Google Sheet publiée si ces derniers n'ont pas reçu le lien partagé
+            par moi-même ou d'autres utilisateurs de la Google Sheet.<br>
+            De plus, le jeu ayant une limite de caractères par message très
+            faible (de l'ordre des 30/40 caractères maximum par message), il est
+            plus facile de partager un lien du style "soularchives.net" plutôt
+            que les liens à rallonge des Google Sheets.
+          </li>
+          <li>
+            Il est plus facile d'avoir un grand nombre d'utilisateurs simultanés
+            sur une application web hébergée sur un serveur dédié que sur une
+            Google Sheet.
+          </li>
+          <li>
+            Des pages trop grandes sur une Google Sheet impacte violemment les
+            performances de ces dernières. De même pour une Google Sheet
+            contenant de très nombreuses pages.
+          </li>
+          <li>
+            Certaines mises en page sont difficiles à réaliser sur un tableur et
+            nécessitent plus de liberté, ce qu'une application web permet.
+          </li>
+          <li>
+            Certaines fonctionnalités (disponibles et/ou prévues) sont
+            impossibles à réaliser sur une Google Sheet et nécessitent une
+            application web dédiée pour cela.
+          </li>
+        </ul>
+        <p>
+          Dans cette optique, faire évoluer le projet en application web a un
+          réel intérêt autant pour les performances et la capacité d'audiance
+          que pour la maintenance et la possibilité d'implémenter des
+          fonctionnalités diverses.
+        </p>
+        <p>
+          <strong>Version et état du projet :</strong> version 1.0.0-a | Le développement
+          de l'interface et des fonctionnalités du projet est actuellement en
+          pause pour un projet de refonte du bloc back-end de l'application.
+        </p>
+        <p>
+          <strong>Mentions Spéciales :</strong> le logo de SoulArchives a été réalisé par
+          une artiste indépendante nommée Jiyucy.
+        </p>
+        <p id="skill-chip">
+          <strong>Stack Technique :</strong>
+          <span>HTML 5</span>
+          <span>CSS 3</span>
+          <span>JavaScript Vanilla</span>
+          <span>SCSS</span>
+          <span>PHP 7</span>
+          <span>Joomla!</span>
+          <span>MySQL</span>
+        </p>
+        <h5>Images d'illustration</h5>
+        <figure>
+          <a href="../../../Images/soularchives.png"
+            ><img src="../../../Images/soularchives.png" alt="Bannière SoulArchives"
+         ></a>
+          <a href="../../../Images/projets/soularchives/sa-1.png"
+            ><img src="../../../Images/projets/soularchives/sa-1.png" alt="Catégorie du site"
+         ></a>
+          <a href="../../../Images/projets/soularchives/sa-2.png"
+            ><img src="../../../Images/projets/soularchives/sa-2.png" alt="Page de guide avec sommaire affiché"
+         ></a>
+        </figure>
+      </section>
+    </main>
+  </body>
+</html>
