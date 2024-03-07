@@ -1,0 +1,84 @@
+#skills {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin-bottom: 5rem;
+
+    .linked-experience {
+        color: black;
+        word-break: break-all;
+        margin: 7px 5px 0;
+
+        &:hover {
+            color: $hovered-table-link;
+        }
+    }
+
+    ul {
+        line-height: 2rem;
+        margin-left: 5px;
+
+        li {
+            padding-left: 25px;
+            background-image: url("assets/images/link-icon.svg");
+            background-repeat: no-repeat;
+            background-position: left center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 30px;
+
+            &:first-child {
+                margin-top: 10px;
+            }
+
+            &:last-child {
+                margin-bottom: 10px;
+            }
+        }
+    }
+
+    thead tr {
+        background: $background-row-color;
+    }
+
+    tbody {
+        td, th {
+            background: $background-cell-color;
+        }
+
+        th:not([rowspan]) {
+            font-weight: normal;
+            font-size: 1.6rem;
+        }
+
+        .empty-cell {
+            height: 40px;
+            background: $background-empty-cell-color;
+        }
+    }
+
+    th, td {
+        border: solid 1px $border-table-cell;
+        min-height: 50px;
+        text-align: center;
+        word-wrap: break-word;
+
+        &:last-child {
+            width: 33%;
+        }
+    }
+
+    td {
+        font-size: 1.6rem;
+
+        ul {
+            font-size: 1.5rem;
+        }
+    }
+
+    th {
+        font-size: 1.8rem;
+        padding: 7px 10px;
+    }
+  }

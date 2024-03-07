@@ -1,0 +1,27 @@
+/* Global theme variables */
+$main-blue: #00A3FF;
+
+/* Links variables */
+$main-links: #FFA34E;
+$hovered-links: #00A3FF;
+$active-links: red;
+
+/* Buttons variables */
+$main-button: #00A3FF;
+$hovering-button: #005485;
+$active-button: #FFA34E;
+$border-button: #0066a1;
+$text-color-button: white;
+
+/* Tables variables */
+$hovered-table-link:  #FFA34E;
+$background-row-color: #BBB;
+$background-cell-color: #DDD;
+$background-empty-cell-color: #EEE;
+$border-table-cell: black;
+$chip-shadow-table: 1px 1px 5px 2px rgba(0, 0, 0, 0.644);;
+
+/* Skill chip variables */
+$chip-background: rgba(0, 163, 255, 0.6666666667);
+$chip-border: solid 1px rgba(28, 75, 95, 0.533);
+$chip-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.2666666667);

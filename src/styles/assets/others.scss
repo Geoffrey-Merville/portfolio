@@ -1,0 +1,85 @@
+dfn {
+    font-style: inherit;
+}
+
+abbr, .abbr-tooltip {
+    display: inline-block;
+    position: relative;
+}
+
+abbr {
+    text-decoration: inherit;
+
+    &:hover {
+        cursor: help;
+    }
+
+    &::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 1px;
+        background-image: repeating-linear-gradient(90deg, #222, #222B 1px, transparent 2px, transparent 3px);
+    }
+}
+
+#certificates {
+    font-size: 1.8rem;
+    color: $text-color-button;
+    padding: 5px 10px;
+    position: relative;
+    top: 95px;
+    left: 100px;
+    width: auto;
+    border: solid 1px $border-button;
+    border-radius: 8px;
+    box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.2666666667) inset;
+    background: $main-button;
+    text-decoration: inherit;
+    z-index: 1;
+
+    &:hover {
+        background: $hovering-button;
+    }
+
+    &:active {
+        background: $active-button;
+    }
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    font-style: normal;
+    font-size: 1rem;
+    font-weight: bold;
+    color: $border-button;
+    border: solid 1px $border-button;
+    border-radius: 50%;
+    padding: 1px 5px;
+    bottom: 5px;
+    left: 5px;
+  }
+  .tooltip:hover {
+    cursor: help;
+    background-color: $active-button;
+    color: white;
+  }
+  .tooltip:hover:after {
+    width: 240px;
+    background-color: $chip-background;
+    border: solid 1px $border-button;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    color: black;
+    top: -10px;
+    left: 20px;
+    font-size: 1.3rem;
+    padding: 5px 10px 0;
+    text-align: center;
+    content: "Ce site présente un chargement long !";
+    cursor: default;
+  }

@@ -1,0 +1,423 @@
+{
+    "Langues": [
+      {
+        "nom": "Français",
+        "niveau": "★★★★★",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "Développeur Indépendant",
+          "Développeur Web & Web Mobile",
+          "POEC .NET Framework"
+        ]
+      },
+      {
+        "nom": "Anglais",
+        "niveau": "★★★☆☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "Développeur Indépendant",
+          "Master d’ingénierie en Informatique"
+        ]
+      }
+    ],
+    "Spacer-1": [
+      {
+        "spacers": true
+      }
+    ],
+    "Savoir-Être": [
+      {
+        "index": 0,
+        "nom": "Faire preuve d'autonomie",
+        "niveau": "N/A",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "Développeur Indépendant",
+          "Développeur Web & Web Mobile",
+          "Développeur C#",
+          "Développeur Python",
+          "Gestionnaire du contenu et de la rédaction",
+          "Master d’ingénierie en Informatique"
+        ]
+      },
+      {
+        "nom": "Faire preuve de curiosité",
+        "niveau": "N/A",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "Développeur Indépendant",
+          "Développeur Web & Web Mobile",
+          "POEC .NET Framework",
+          "Développeur C#",
+          "Développeur Python",
+          "Master d’ingénierie en Informatique"
+        ]
+      },
+      {
+        "nom": "Faire preuve de leadership",
+        "niveau": "N/A",
+        "experiences": [
+          "Gestionnaire du contenu et de la rédaction",
+          "Master d’ingénierie en Informatique"
+        ]
+      },
+      {
+        "nom": "Faire preuve de persévérance",
+        "niveau": "N/A",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "Développeur Indépendant",
+          "Développeur Web & Web Mobile",
+          "POEC .NET Framework",
+          "Développeur C#",
+          "Développeur Python",
+          "Spring Boot 3 For Beginners",
+          "Master d’ingénierie en Informatique"
+        ]
+      },
+      {
+        "nom": "Faire preuve de rigueur et de précision",
+        "niveau": "N/A",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "Développeur Indépendant",
+          "Développeur Web & Web Mobile",
+          "Développeur C#",
+          "Développeur Python",
+          "Spring Boot 3 For Beginners",
+          "Gestionnaire du contenu et de la rédaction",
+          "Master d’ingénierie en Informatique"
+        ]
+      },
+      {
+        "nom": "Faire preuve de réactivité",
+        "niveau": "N/A",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "Développeur Indépendant",
+          "Développeur Web & Web Mobile",
+          "Gestionnaire du contenu et de la rédaction",
+          "Master d’ingénierie en Informatique"
+        ]
+      },
+      {
+        "nom": "Gérer son stress",
+        "niveau": "N/A",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "Développeur Web & Web Mobile",
+          "Gestionnaire du contenu et de la rédaction",
+          "POEC .NET Framework",
+          "Master d’ingénierie en Informatique"
+        ]
+      },
+      {
+        "nom": "Organiser son travail selon les priorités et les objectifs",
+        "niveau": "N/A",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "Développeur Indépendant",
+          "Développeur Web & Web Mobile",
+          "Développeur C#",
+          "Développeur Python",
+          "Spring Boot 3 For Beginners",
+          "Gestionnaire du contenu et de la rédaction",
+          "Master d’ingénierie en Informatique"
+        ]
+      }
+    ],
+    "Spacer-2": [
+      {
+        "spacers": true
+      }
+    ],
+    "Savoir-Faire": [
+      {
+        "nom": "HTML 5",
+        "niveau": "★★★★☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "[Formation] Concepteur et Développeur d'Applications",
+          "POEC .NET Framework",
+          "Développeur Indépendant",
+          "Développeur Web & Web Mobile",
+          "Master d’ingénierie en Informatique"
+        ]
+      },
+      {
+        "nom": "CSS 3",
+        "niveau": "★★★★☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "[Formation] Concepteur et Développeur d'Applications",
+          "POEC .NET Framework",
+          "Développeur Indépendant",
+          "Développeur Web & Web Mobile",
+          "Master d’ingénierie en Informatique"
+        ]
+      },
+      {
+        "nom": "SCSS",
+        "niveau": "★★★☆☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "POEC .NET Framework",
+          "Développeur Indépendant",
+          "[Formation] Concepteur et Développeur d'Applications",
+          "Développeur Web & Web Mobile"
+        ]
+      },
+      {
+        "nom": "AngularJS 14/15",
+        "niveau": "★★☆☆☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "[Formation] Concepteur et Développeur d'Applications"
+        ]
+      },
+      {
+        "nom": "ReactJS",
+        "niveau": "★☆☆☆☆",
+        "experiences": [
+          "Formation ReactJS - Full Course For Beginners",
+          "[Formation] Concepteur et Développeur d'Applications"
+        ]
+      },
+      {
+        "nom": "JavaScript / TypeScript",
+        "niveau": "★★★☆☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "[Formation] Concepteur et Développeur d'Applications",
+          "POEC .NET Framework",
+          "Développeur Indépendant",
+          "Master d’ingénierie en Informatique"
+        ]
+      },
+      {
+        "nom": "Java 8/17",
+        "niveau": "★★★☆☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "[Formation] Concepteur et Développeur d'Applications",
+          "Spring Boot 3 For Beginners"
+        ]
+      },
+      {
+        "nom": "Spring Boot 2/3",
+        "niveau": "★★☆☆☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "[Formation] Concepteur et Développeur d'Applications",
+          "Spring Boot 3 For Beginners"
+        ]
+      },
+      {
+        "nom": "NPM",
+        "niveau": "★★☆☆☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "[Formation] Concepteur et Développeur d'Applications",
+          "Formation ReactJS - Full Course For Beginners"
+        ]
+      },
+      {
+        "nom": "Maven 3",
+        "niveau": "★★☆☆☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "[Formation] Concepteur et Développeur d'Applications",
+          "Spring Boot 3 For Beginners"
+        ]
+      },
+      {
+        "nom": "JPA Hibernate",
+        "niveau": "★★☆☆☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "[Formation] Concepteur et Développeur d'Applications",
+          "Spring Boot 3 For Beginners"
+        ]
+      },
+      {
+        "nom": "MySQL",
+        "niveau": "★★★☆☆",
+        "experiences": [
+          "Développeur Indépendant",
+          "Master d’ingénierie en Informatique",
+          "Développeur Web & Web Mobile"
+        ]
+      },
+      {
+        "nom": "MariaDB",
+        "niveau": "★★★☆☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "Développeur Web & Web Mobile"
+        ]
+      },
+      {
+        "nom": "PostgreSQL",
+        "niveau": "★☆☆☆☆",
+        "experiences": [
+          "[Formation] Concepteur et Développeur d'Applications"
+        ]
+      },
+      {
+        "nom": "Transact-SQL",
+        "niveau": "★★☆☆☆",
+        "experiences": [
+          "POEC .NET Framework"
+        ]
+      },
+      {
+        "nom": "Git",
+        "niveau": "★★★★☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "[Formation] Concepteur et Développeur d'Applications",
+          "POEC .NET Framework",
+          "Développeur Indépendant",
+          "Développeur Web & Web Mobile",
+          "Master d’ingénierie en Informatique"
+        ]
+      },
+      {
+        "nom": "GitHub / Gitlab",
+        "niveau": "★★★★☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "Développeur Indépendant",
+          "Développeur Web & Web Mobile"
+        ]
+      },
+      {
+        "nom": "Refactoring",
+        "niveau": "★☆☆☆☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "Développeur Indépendant"
+        ]
+      },
+      {
+        "nom": "Tests Unitaires",
+        "niveau": "★☆☆☆☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "[Formation] Concepteur et Développeur d'Applications"
+        ]
+      },
+      {
+        "nom": "PHP 7",
+        "niveau": "★★☆☆☆",
+        "experiences": [
+          "Développeur Indépendant",
+          "Développeur Web & Web Mobile"
+        ]
+      },
+      {
+        "nom": "Joomla!",
+        "niveau": "★★★★☆",
+        "experiences": [
+          "Développeur Indépendant",
+          "[Bénévolat] Gestionnaire Contenu & Rédaction"
+        ]
+      },
+      {
+        "nom": "Conception Modèle Objet",
+        "niveau": "★★☆☆☆",
+        "experiences": [
+          "[Alternance] Concepteur et Développeur d’applications",
+          "[Formation] Concepteur et Développeur d'Applications"
+        ]
+      },
+      {
+        "nom": "UML",
+        "niveau": "★☆☆☆☆",
+        "experiences": [
+          "[Formation] Concepteur et Développeur d'Applications"
+        ]
+      },
+      {
+        "nom": "Micro-Services",
+        "niveau": "★☆☆☆☆",
+        "experiences": [
+          "[Formation] Concepteur et Développeur d'Applications"
+        ]
+      },
+      {
+        "nom": "Android Studio",
+        "niveau": "★☆☆☆☆",
+        "experiences": [
+          "[Formation] Concepteur et Développeur d'Applications"
+        ]
+      },
+      {
+        "nom": ".NET Framework 4.8",
+        "niveau": "★★☆☆☆",
+        "experiences": [
+          "POEC .NET Framework"
+        ]
+      },
+      {
+        "nom": ".NET 6",
+        "niveau": "★★☆☆☆",
+        "experiences": [
+          "POEC .NET Framework",
+          "Développeur C#"
+        ]
+      },
+      {
+        "nom": "C# 7/10",
+        "niveau": "★★★☆☆",
+        "experiences": [
+          "POEC .NET Framework",
+          "Développeur C#"
+        ]
+      },
+      {
+        "nom": "ASP.NET",
+        "niveau": "★☆☆☆☆",
+        "experiences": [
+          "POEC .NET Framework"
+        ]
+      },
+      {
+        "nom": "Razor Pages",
+        "niveau": "★★☆☆☆",
+        "experiences": [
+          "Développeur C#"
+        ]
+      },
+      {
+        "nom": "Entity Framework",
+        "niveau": "★★☆☆☆",
+        "experiences": [
+          "POEC .NET Framework",
+          "Développeur C#"
+        ]
+      },
+      {
+        "nom": "WPF",
+        "niveau": "★☆☆☆☆",
+        "experiences": [
+          "POEC .NET Framework"
+        ]
+      },
+      {
+        "nom": "Python",
+        "niveau": "★★☆☆☆",
+        "experiences": [
+          "Développeur Python",
+          "Master d’ingénierie en Informatique"
+        ]
+      },
+      {
+        "nom": "Django",
+        "niveau": "★☆☆☆☆",
+        "experiences": [
+          "Développeur Python"
+        ]
+      }
+    ]
+  }

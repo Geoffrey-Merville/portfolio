@@ -1,0 +1,325 @@
+{
+    "dark-section": [
+        {
+            "id": 1,
+            "title": "Projet PRofessionnel",
+            "content": "Actuellement en contrat d'apprentissage pour le titre de Concepteur et Développeur d'Applications chez Dawan, je suis à la recherche de nouvelles opportunités afin de succéder à mon contrat actuel et consolide rmes compétences acquises.",
+            "footer": ""
+        },
+        {
+            "id": 2,
+            "title": "Savoir-Être",
+            "content": [
+                {
+                    "item": "Faire preuve d'autonomie"
+                },
+                {
+                    "item": "Faire preuve de curiosité"
+                },
+                {
+                    "item": "Faire preuve de leadership"
+                },
+                {
+                    "item": "Faire preuve de persévérence"
+                },
+                {
+                    "item": "Faire preuve de rigueur et de précision"
+                },
+                {
+                    "item": "Faire preuve de réactivité"
+                },
+                {
+                    "item": "Gérer son stress"
+                },
+                {
+                    "item": "Organiser son travail selon les priorités et les objectifs"
+                },
+                {
+                    "item": "S'adapter aux changements"
+                },
+                {
+                    "item": "Travailler en équipe"
+                }
+            ],
+            "footer": ""
+        },
+        {
+            "id": 3,
+            "title": "Langues Parlées",
+            "content": [
+                {
+                    "item": "Français (natif)"
+                },
+                {
+                    "item": "Anglais (technique et courant)"
+                }
+            ],
+            "footer": ""
+        },
+        {
+            "id": 4,
+            "title": "Coordonnées",
+            "content": [
+                {
+                    "item": "<address>182 rue Pierre Legrand, 59800 LILLE</address>"
+                },
+                {
+                    "item": "06 10 85 30 80"
+                },
+                {
+                    "item": "23 ans"
+                },
+                {
+                    "item": "Mobilité : Lille et alentours"
+                },
+                {
+                    "item": "Permis : En cours"
+                },
+                {
+                    "item": "<a href=\"https://geoffrey-merville.github.io/portfolio\" rel=\"nofollow noopener noreferrer\">Portfolio Personnel</a>"
+                }
+            ],
+            "figure": "",
+            "footer": ""
+        },
+        {
+            "id": 5,
+            "title": "Centres d'Intérêts",
+            "content": [
+                {
+                    "item": "Mangas & Animes"
+                },
+                {
+                    "item": "Culture Japonaise"
+                },
+                {
+                    "item": "Jeux vidéo (RPG/MMO/Gestion)"
+                },
+                {
+                    "item": "Technologies de l'informatique <br> et développement"
+                },
+                {
+                    "item": "Vulgarisation scientifique"
+                }
+            ],
+            "footer": ""
+        }
+    ],
+    "white-section": [
+        {
+            "id": 1,
+            "title": "Expérience Professionnelle",
+            "contents": [
+                {
+                    "header": {
+                        "headerTitle": "[Alternance] Concepteur et Développeur d'Applications",
+                        "headerSubtitle": {
+                            "Company": "Dawan Lille",
+                            "Level": "Licence (Bac +3)",
+                            "startDate": "01/2023",
+                            "startDateTime": "2023-01-02T09:30:00",
+                            "endDate": "En cours",
+                            "endDateTime": "2023"
+                        }
+                    },
+                    "main": "Rythme 2 semaines en entreprise / 1 semaine en formation. En entreprise, participation à la conception, la maintenance et le développement des nouvelles fonctionnalités du projet (\"<a href=\"https://skills.dawan.fr\" rel=\"nofollow noopener noreferrer\">Dawan Skills</a>\") ; refonte du code et du modèle objet pour les parties déjà existantes.",
+                    "footer": [
+                        {
+                            "item": "Conception Modèle Objet"
+                        },
+                        {
+                            "item": "HTML"
+                        },
+                        {
+                            "item": "SCSS"
+                        },
+                        {
+                            "item": "AngularJS 14"
+                        },
+                        {
+                            "item": "TypeScript"
+                        },
+                        {
+                            "item": "Java 8 & Spring Boot"
+                        },
+                        {
+                            "item": "Maven"
+                        },
+                        {
+                            "item": "JPA Hibernate"
+                        },
+                        {
+                            "item": "MariaDB"
+                        },
+                        {
+                            "item": "Git & Gitlab"
+                        },
+                        {
+                            "item": "Refactoring"
+                        },
+                        {
+                            "item": "Tests Unitaires"
+                        }
+                    ]
+                },
+                {
+                    "header": {
+                        "headerTitle": "Développeur Indépendant",
+                        "headerSubtitle": {
+                            "Company": "Lille",
+                            "Level": "",
+                            "startDate": "07/2021",
+                            "startDateTime": "2021-07",
+                            "endDate": "09/2022",
+                            "endDateTime": "2022-09"
+                        }
+                    },
+                    "main": "Durant cette période, auto-apprentissage et développement de projetspersonnels. J’ai principalement travaillé sur mon projet personnel <a href=\"https://soularchives.net/\" rel=\"nofollow noopener noreferrer\">SoulArchives</a> (projet actuellement en pause pour refonte).",
+                    "footer": [
+                        {
+                            "item": "HTML"
+                        },
+                        {
+                            "item": "SCSS"
+                        },
+                        {
+                            "item": "JS"
+                        },
+                        {
+                            "item": "MySQL"
+                        },
+                        {
+                            "item": "PHP & Joomla!"
+                        }
+                    ]
+                },
+                {
+                    "header": {
+                        "headerTitle": "Gestionnaire Contenu & Équipe Rédaction",
+                        "headerSubtitle": {
+                            "Company": "Touhou-Online",
+                            "Level": "Bénévolat",
+                            "startDate": "11/2017",
+                            "startDateTime": "2017-11",
+                            "endDate": "02/2019",
+                            "endDateTime": "2019-02"
+                        }
+                    },
+                    "main": "<ul><li>Gestion du contenu du site web de l'association et supervision deséquipes de correction et de rédaction.</li><li>Contribution au développement de l’association en tant que membre de la haute direction.</li></ul>",
+                    "footer": [
+                        {
+                            "item": "HTML"
+                        },
+                        {
+                            "item": "CSS"
+                        },
+                        {
+                            "item": "Rédaction"
+                        },
+                        {
+                            "item": "Gestion d'équipe"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Formations",
+            "contents": [
+                {
+                    "header": {
+                        "headerTitle": "[Alternance] Concepteur et Développeur d'Applications",
+                        "headerSubtitle": {
+                            "Company": "Dawan Lille",
+                            "Level": "Licence (Bac +3)",
+                            "startDate": "01/2023",
+                            "startDateTime": "2023-01-02T09:30:00",
+                            "endDate": "En cours",
+                            "endDateTime": "2023"
+                        }
+                    },
+                    "main": "Rythme 2 semaines en entreprise / 1 semaine en formation. Chaque semaine en formation, une nouvelle notion/item est abordée afin d’être formé aux principes fondamentaux de la conception,du développement et des tests de nos différents projets.",
+                    "footer": [
+                        {
+                            "item": "HTML"
+                        },
+                        {
+                            "item": "SCSS"
+                        },
+                        {
+                            "item": "AngularJS 15 & TypeScript"
+                        },
+                        {
+                            "item": "MySQL"
+                        },
+                        {
+                            "item": "Java 17 & Spring Boot"
+                        },
+                        {
+                            "item": "Architecture & Micro-services"
+                        },
+                        {
+                            "item": "UML"
+                        },
+                        {
+                            "item": "Maven"
+                        },
+                        {
+                            "item": "PostgreSQL"
+                        },
+                        {
+                            "item": "Git"
+                        },
+                        {
+                            "item": "JPA Hibernate"
+                        },
+                        {
+                            "item": "Tests unitaires"
+                        },
+                        {
+                            "item": "Android Studio"
+                        }
+                    ]
+                },
+                {
+                    "header": {
+                        "headerTitle": "POEC .NET Framework",
+                        "headerSubtitle": {
+                            "Company": "Dawan Lille",
+                            "Level": "",
+                            "startDate": "09/2022",
+                            "startDateTime": "2022-09-19T09:30:00",
+                            "endDate": "12/2022",
+                            "endDateTime": "2022-12-15T17:00:00"
+                        }
+                    },
+                    "main": "POEC dispensée par Atlas et Dawan pour former sur les technologies liées au .NET Framework de Microsoft. (C#, ASP.NET, WPF etc.)",
+                    "footer": [
+                        {
+                            "item": ".NET Framework 4.8"
+                        },
+                        {
+                            "item": "C# 7"
+                        },
+                        {
+                            "item": "ASP.NET"
+                        },
+                        {
+                            "item": "EntityFramework"
+                        },
+                        {
+                            "item": "WPF"
+                        },
+                        {
+                            "item": "Transact-SQL"
+                        },
+                        {
+                            "item": "Git CLI"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
